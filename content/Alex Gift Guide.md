@@ -1,9 +1,11 @@
+```
 ---
-title: '"<% tp.file.title %>"'
+title: <% tp.file.title %>
 draft: false
 tags:
   - quartz
 ---
+```
 
 
 ## Table of Contents
