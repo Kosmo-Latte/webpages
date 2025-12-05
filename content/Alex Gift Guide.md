@@ -1,11 +1,12 @@
 ---
-title: <% tp.file.title %>
+title: Alex Gift Guide
+description: Alex Gift Guide
 draft: false
 tags:
   - quartz
+date: 2025-12-05    
+
 ---
-
-
 ## Table of Contents
 1. **Changelog**
 2. **Introduction**
