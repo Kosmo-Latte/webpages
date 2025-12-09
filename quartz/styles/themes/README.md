@@ -1,13 +1,13 @@
-# Tokyo Night
+# Aurora-Twilight
 
-- Theme: Tokyo Night
-- Author: tcmmichaelb139
+- Theme: Aurora-Twilight
+- Author: <a href="https://quinta0.github.io/" target="_blank" rel="noopener noreferrer">Quintavalle Pietro</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/tokyo-night/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/aurora-twilight/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/tokyo-night)
+[Open live preview (Publish)](https://publish.saberzero.one/aurora-twilight)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: tokyo-night
+  THEME_NAME: aurora-twilight
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh tokyo-night
+./action.sh aurora-twilight
 ```
 
 ### Manual install
