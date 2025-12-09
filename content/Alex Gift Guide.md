@@ -113,7 +113,7 @@ Jewellery which is made of **pewter**, **wood**, or **plastic**. These are a bit
 (Images can be right clicked to open at full size!)
 
 ```img-gallery
-path: Images/Jewellery
+path: webpages/Jewellery
 type: vertical
 ```
 
