@@ -116,8 +116,8 @@ Jewellery which is made of **pewter**, **wood**, or **plastic**. These are a bit
 ### Jewellery/Pins Alex Owns (not complete yet)
 (Images can be right clicked to open at full size!)
 
-![[il_1140xN.921763302_mfsu.jpg|200]]
-![[il_1140xN.6275350190_n0b9.jpg|200]]
+![[webpages/Jewellery/il_300x300.4623740043_9i4p.jpg|200]]
+![[webpages/Jewellery/il_1140xN.921763302_mfsu.jpg|200]]
 
 
 Some of these aren't the precise item - the tarot earrings are The Sun/The Moon, the non-binary pin is the tarot-themed one. 
