@@ -5,14 +5,18 @@ draft: false
 date: 2025-12-05
 ---
 ## Table of Contents
-1. **Changelog**
-2. **Introduction**
-3. **I Want General Ideas**
-4. 
+1. [[#Changelog]]
+2. [[#Introduction]]
+3. [[#I Want General Ideas]]
+	1. [[#General Yes and No]]
+	2. [[#Gift Themes]]
+4. [[#I Want Examples]]
+5. [[#I Want a Wishlist]]
 
 ## Changelog
 **2024** - Created
-**December 2025** - Amended some categories to reflect different living situation, added a Fragrances section under Themes, re-organised, published as a website!
+
+**December 2025** - Amended some categories to reflect different living situation, added a Fragrances section under Themes, re-organised, published as a website! Changed Wishlist to a new service as Amazon got rid of some features.
 
 ## Introduction
 Thank you for thinking about getting a gift for me! I'm eternally grateful for every gesture of generosity and **anything** given is received with gratitude. Writing this is a little awkward for me - so I have used third person throughout, as it lets me have a little bit of intellectual distance from the silliness of it. I also apologise for being quite so hard to buy for!
@@ -109,27 +113,26 @@ Jewellery which is made of **pewter**, **wood**, or **plastic**. These are a bit
 ---
 ## I Want Examples
 
-### Jewellery/Pins Alex Owns
+### Jewellery/Pins Alex Owns (not complete yet)
 (Images can be right clicked to open at full size!)
 
-```img-gallery
-path: webpages/Jewellery
-type: vertical
-```
+![[il_1140xN.921763302_mfsu.jpg|200]]
+![[il_1140xN.6275350190_n0b9.jpg|200]]
+
 
 Some of these aren't the precise item - the tarot earrings are The Sun/The Moon, the non-binary pin is the tarot-themed one. 
 
 ---
 ## I Want a Wishlist
 
-**Amazon Wishlist**
+**Unified Gift List**
 
-Some of these items are more expensive, and are definitely not expected! They're mostly there to guide similar themes. This list will also be populated a bit more soon (it's been neglected for a long time)
+This list has example gifts from pretty much everything I like, and is updated through the year - the prices may change, so they're just snapshotted at the price they had when I found the item.
 
-https://www.amazon.co.uk/hz/wishlist/ls/1WKEI1COSCTZU?ref_=wl_share
+https://www.thingstogetme.com/1914139aa3a9e
 
 **Etsy Gift Inspiration**
 
-Related items are also very good! Similar to the Amazon list, this will also get more added soon.
+Related items are also very good! Similar to the above list, this will also get more added soon.
   
 https://www.etsy.com/people/ARWayland/favorites/etsy-gift-inspo?ref=favorites
